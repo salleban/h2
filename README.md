@@ -5,7 +5,7 @@ Linux terminal
 
 Aloitus käy mukavasti. Huomaan Virtuaalikonetta käynnistäessä saavani virheen, että tiedostot puuttuvat. Eli asentelen uudelleen VirtualBoxin..
 
-Sitten itse aiheeseen. Lähdin rakentamaan hakemistoa touch menetelmällä. Mutta ensin avasin Terminalin ja katsastelin olemassa olevat hakemistot läpi. 
+Sitten itse aiheeseen. Lähdin rakentamaan hakemistoa mkdir & touch menetelmillä. Mutta ensin avasin Terminalin ja katsastelin olemassa olevat hakemistot läpi. 
 
 ![Kuva 1](https://user-images.githubusercontent.com/100162043/213856476-d8308e8d-bf2e-4457-9778-a307bf8400a6.jpg)
 
