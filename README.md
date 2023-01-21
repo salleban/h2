@@ -29,7 +29,7 @@ Näin huomaan luoneeni Days hakemiston muiden joukkoon.
 
 ## Hakemiston alakansiot
 
-Seuraavan vuorossa on lisätä Days hakemistoon kansioita. Tyhjennetään tässä vaiheessa terminaali painamalla ctrl + L. 
+Seuraavana vuorossa on lisätä Days hakemistoon kansioita. Tyhjennetään tässä vaiheessa terminaali painamalla ctrl + L. 
 Katsoin kirjoittamalla pwd, että olenko varmasti Home kansiossa tyhjennettyäni terminaalin ja huomasin olevani edelleen uudella luomallani Days kansiossa. 
 
 Hakemiston saa ns. nollattua kirjoittamalla terminaaliin cd ~. Nyt kirjotan uudestaan pwd ja huomasin olevani takaisin home kansiossa. 
