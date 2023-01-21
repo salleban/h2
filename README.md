@@ -50,14 +50,13 @@ Ja huomaan kuvan mukaisesti, että mon niminen hakemisto on luotu Days hakemisto
 
 ![Uusikuva 4](https://user-images.githubusercontent.com/100162043/213856694-ea206993-d4e7-450b-a6d6-524effdc0bb5.jpg)
 
-
+Samalla menetelmällä loin myös muut viikonpäivän kansiot Days hakemiston alle. 
 
 
         $ mkdir -p Days/tue
         $ mkdir -p Days/wed
         ...
         
-Samalla menetelmällä loin myös muut viikonpäivän kansiot Days hakemiston alle. 
 
 ![Kuva5](https://user-images.githubusercontent.com/100162043/213856975-6b3f1c31-c72c-44b3-a70e-76b5b4ca7e7d.jpg)
 
