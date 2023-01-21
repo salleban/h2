@@ -10,15 +10,15 @@ Sitten itse aiheeseen. Lähdin rakentamaan hakemistoa mkdir & touch menetelmill�
 ![Kuva 1](https://user-images.githubusercontent.com/100162043/213856476-d8308e8d-bf2e-4457-9778-a307bf8400a6.jpg)
 
 
-Käytin pwd hakua selvittääkseni, missä hakemistossa olen ja tämän jälkeen selvitin ls hakua selvittääkseni mitä Home kansion alta löytyy. 
+Käytin pwd hakua selvittääkseni, missä hakemistossa olen ja tämän jälkeen käytin ls hakua selvittääkseni mitä Home kansion alta löytyy. 
 
 ## Hakemisto
 
-Hakemiston nimeäminen ja luominen tapahtuu mkdir komennon avulla. Kirjoittamalla mkdir ja perään haluamasi nimi hakemistolle, syntyy hakemistokansio. Esimerkiksi:
+Hakemiston nimeäminen ja luominen tapahtuu mkdir komennon avulla. Kirjoittamalla mkdir ja perään haluamani nimi hakemistolle, syntyy hakemistokansio. Esimerkiksi:
 
         $ mkdir Days 
         
-Nähdäksesi onnistuiko hakemiston luominen kirjoita:
+Nähdäkseni onnistuiko hakemiston luominen kirjoitan:
 
         $ ls
         
@@ -41,7 +41,7 @@ Seuraavaksi luodaan Days hakemiston alle viikonpäivän hakemistot. Tämä tapah
 
         $ mkdir -p Days/mon
 
-Katsoammeksemme toimiko tämä komento, kirjoitetaan: 
+Katsoakseni toimiko tämä komento, kirjoitan: 
 
         $ cd Days
         $ ls
