@@ -37,7 +37,7 @@ Katsoin kirjoittamalla pwd, että olenko varmasti Home kansiossa tyhjennettyäni
 
 Hakemiston saa ns. nollattua kirjoittamalla terminaaliin cd ~. Nyt kirjotan uudestaan pwd ja huomasin olevani takaisin home kansiossa. 
 
-Seuraavaksi luokdaan Days hakemiston alle viikonpäivän hakemistot. Tämä tapahtuu kirjoittamalla: 
+Seuraavaksi luodaan Days hakemiston alle viikonpäivän hakemistot. Tämä tapahtuu kirjoittamalla: 
 
         $ mkdir -p Days/mon
 
@@ -64,7 +64,7 @@ Samalla menetelmällä loin myös muut viikonpäivän kansiot Days hakemiston al
 
 Kuten kuvasta huomaa, kävin muutaman kerran tutkimassa, että lisääntyyhän hakemistoja Days hakemiston alle, ja lisääntyihän ne!
 
-## Alahakemistojen alahakemistot
+## Alahakemistojen sisältö
 
 Nyt olen saanut viikonpäivät lisättyä Days hakemistoon, on aika lisätä jokaiselle viikonpäivälle sisältöä. Tässä kohtaa lisään jokaisen viikonpäivän alle
 Fish Cat ja Horse kansiot. Avaan yksitellen viikonpäivät seuraavasti: 
